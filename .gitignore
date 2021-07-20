@@ -1,0 +1,6 @@
+# Remove VSCode files
+.vscode/
+
+# Remove auto-generated files
+main
+*.o
